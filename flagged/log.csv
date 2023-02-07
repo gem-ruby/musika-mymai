@@ -1,0 +1,2 @@
+Music Genre to Generate,Generated Music Length,How much do you want the music style to be varied? (Stddev truncation for random vectors),Log-MelSpectrogram of Generated Audio (first 23 s),Generated Audio,flag,username,timestamp
+Mozart finetuned,1m 58s,1.8,C:\Users\genmg2\Desktop\musika-piano\flagged\Log-MelSpectrogram of Generated Audio first 23 s\tmp7nttbdrz.png,C:\Users\genmg2\Desktop\musika-piano\flagged\Generated Audio\tmp1_adww2ph5f_w6xg.wav,,,2023-02-07 13:39:23.177129
